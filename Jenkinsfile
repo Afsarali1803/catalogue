@@ -1,7 +1,7 @@
 @Library('roboshop-shared-library@main') _
 
 env.COMPONENT="catalogue"
-nodejs('catalogue')
+nodejs()
 
 // pipeline {
 //     agent any 
